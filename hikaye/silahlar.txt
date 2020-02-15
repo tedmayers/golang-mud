@@ -1,64 +1,124 @@
-- Silahlar
+A. Mermi Tipleri (Başlangıçta verilecek tutar)
+1. .45 (100)
+2. 7.65 (500)
+3. 7.62 (500)
+4. .50 (100)
+5. Benzin (0)
+6. Elektrik (0)
+7. Varil (0)
+
+
+B. Silahlar
+
 1. Otomatik
-2. Yarı Otomatik
-3. Tam Otomatik
-4. Bıçaklar
-5. Elektronik Silahlar
-6. Hack cihazları
 
-
-
-- Mermi Tipleri
-1. .45
-2. 7.65
-3. 7.62
-4. .50
-
-
-
-A. Glock G17
-Mermi kapasitesi: 30
-Mermi tipi: .45 (1)
-Kullanım sıcaklığı: -40/70'C
-Tipi: Yarı otomatik (2)
-
-
-B. AR-15
-Mermi kapasitesi: 30
-Mermi tipi: 7.65 (2)
-Kullanım sıcaklığı: -50/100'C
-Tipi: Tam otomatik (3) 
-
-
-C. MG-3
-Mermi kapasitesi: 2000
-Mermi tipi: 7.62 (3)
-Kullanım sıcaklığı: -300/600'C
-Tipi: Tam otomatik (3)
-
-
-D. Desert Eagle
+- Desert Eagle
+Hasar: 60-100 (Kafadan: 100)
 Mermi kapasitesi: 15
 Mermi tipi: 7.62 (3)
 Kullanım sıcaklığı: -50/60'C
 Tipi: Otomatik (1)
 
 
-E. AES-50
+- AES-50
+Hasar: 30-40 (Kafadan: 100)
 Mermi Kapasitesi: 30
 Mermi tipi: .50 (4)
 Kullanım sıcaklığı: -100/200'C
 Tipi: Otomatik (1)
 
+2. Yarı Otomatik
+
+- Glock G17
+Hasar: 10-30 (Kafadan: 100)
+Mermi kapasitesi: 30
+Mermi tipi: .45 (1)
+Kullanım sıcaklığı: -40/70'C
+Tipi: Yarı otomatik (2)
+
+3. Tam Otomatik
+
+- AR-15
+Hasar: 50-80 (Kafadan: 100)
+Mermi kapasitesi: 30
+Mermi tipi: 7.65 (2)
+Kullanım sıcaklığı: -50/100'C
+Tipi: Tam otomatik (3) 
 
 
-F. Maymuncuk (Kapı kiliti açar)
+- MG-3
+Hasar: 90-100 (Kafadan: 100)
+Mermi kapasitesi: 2000
+Mermi tipi: 7.62 (3)
+Kullanım sıcaklığı: -300/600'C
+Tipi: Tam otomatik (3)
+
+4. Bıçaklar
+
+- Motorlu testere
+Hasar: 50-100 (Parçalarsan: 100)
+Özelliği: Herşeyi doğrayabilir
+Tipi: Bıçak (4)
+Dezavantaj: Kısa devre yapabilir
+
+- Elmaslı Kılıç
+Hasar: 40-100 (Kalbe/Omurga sistemine saplarsan: 100)
+Özelliği: Suya ve elektronik darbelere dayanıklıdır.
+Tipi: Bıçak (4)
+Dezavantaj: Güçlendirmek için çeşitli özel elmasları toplamanız gerekli.
+
+- Normal Kılıç
+Hasar: 10-40 (Kalbe/Omurga sistemine saplarsan: 100)
+Özelliği: Suya dayanıklıdır, elektiriğe ve manyetik ortama dayanıklı değildir.
+Tipi: Bıçak (4)
+Dezavantaj: Aşırı güçlü değil. Sadece basit öldürme işlerinde kullanılabilir.
+
+
+5. Hack cihazları
+
+- Maymuncuk (Kapı kiliti açar)
 Özelliği: Basit kapıları ve kilitleri açar
-Tipi: Hack Cihazı (6)
+Tipi: Hack Cihazı (5)
 
-
-
-E. El terminali/Cep Bilgisayarı (Basit hack işleri için kullanılır)
+- Cep Bilgisayarı (Basit hack işleri için kullanılır)
+Hasar: 5-10 (Fırlatma açısına göre)
 Özelliği: Karmaşık sistemleri hacklemek için kullanılır. 
-Tipi: Hack Cihazı (6)
+Tipi: Hack Cihazı (5)
+Dezavantaj: Isıya dayanıklı değil, kısa devre yapabilir.
 
+- Bilgisayar
+Hasar: 10-50 (Fırlatma açısına göre)
+Özelliği: Karmaşık sistemleri hacklemek için kullanılır. 
+Tipi: Hack Cihazı (5)
+Dezavantaj: Isıya dayanıklı değil, kısa devre yapabilir.
+
+- Sunucu
+Özelliği: Daha büyük çaplı sistemleri hacklemek için kullanılır.
+Tipi: Hack Cihazı (5)
+Dezavantaj: Diğer bilgisayarlar tarafından hacklenebilir. Isıya dayanıklı değil, kısa devre yapabilir.
+
+6. Elektronik Silahlar
+
+- Alev topu
+Hasar: 30-60 (Yakından yakarsan: 100)
+Özelliği: Tüm objeleri eritip yakabilir.
+Mermi kapasitesi: 1
+Mermi tipi: Benzin
+
+- Lazer topu
+Hasar: 100
+Özelliği: Işık ile tüm objeleri delebilir.
+Mermi kapasitesi: 1000
+Mermi tipi: Elektrik (Şarj edilebilir)
+
+- Elektrik topu
+Hasar: 10-50 (Hassas bölgeye atarsan: 80-100)
+Özelliği: Elektrik topu atarak objeleri eritip yok edilebilir
+Mermi kapasitesi: 200
+Mermi tipi: Elektrik (Şarj edilebilir)
+
+- Radyasyon topu
+Hasar: 10-50 (Hassas bölgeye atarsan: 80-100)
+Özelliği: Kimyasal sıvı atarak, objeleri eritip yok edilebilir
+Mermi kapasitesi: 1
+Mermi tipi: Varil
