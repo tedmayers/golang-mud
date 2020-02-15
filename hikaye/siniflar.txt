@@ -1,0 +1,64 @@
+- Sınıf ve güçler
+1. Robotlar
+2. İnsanlar
+3. Zombiler
+
+
+
+A. Robotlar
+Elektrik gücüne sahip elektrik ile çalışan sınıf tipidir. Elektronik silahlar ve özel güçleri vardır.
+Öğrenebilirler fakat duygusal düşünme yetenekleri yoktur.
+
+Kullanabileceği silah tipi;
+1. Elektronik Silahlar
+2. Bıçaklar
+
+En çok hasar aldığı şeyler;
+1. Sudan çok etilenirler. Kısa devre yapmaları söz konusu.
+2. Bir parçasının kopma durumunda hasar alırlar.
+
+
+Güçleri;
+- Elektrikli silahlar ve bıçakları karşı düşmana karşı elektriksel salınımla yok edebilmesi.
+- Güneş ve diğer elektronik aygıtlar ile etkileşime girerek iyileşebilmesi
+- Işığı dönüştürerek karşı karaktere karşı kullanabilmesi.
+
+
+
+
+B. İnsanlar
+Canlı mikro organizmalar ve hücrelerden oluşutlar. Özel güçleri ve enerjilerini vicudlarındaki
+kemik ve kas yapılarından oluşur. Tüm silahları kullanabilme yetenekleri vardır. 
+Öğrenebilirler ve duygusal düşünme yetenekleri varıdr.
+
+Kullanbileceği silah tipi;
+1. Otomatik Silahlar
+2. Yarı Otomatik Silahlar
+3. Tam Otomatik Silahlar
+4. Bıçaklar
+
+En çok hasar aldığı şeyler;
+1. Kafadan yada vicud bölgelerinden aldıkları hasarlar
+2. Bir organın kopma durumunda tüm vicudun hasar alabilmesi yada ölmesi durumu.
+
+Güçleri;
+- Kas gücü ile karşı tarafa seviyesi kadar zarar verebilmesi
+- Bilgi kullanarak saldırı yapabilmesi
+- Cihazları hackleyenbilme üzerinde kontrol sağlayabilme gücü
+- Her cihazı öğrenebilme gücü
+
+
+
+
+C. Zombiler
+Canlı mikro organizmaların dönüşmesi ve hücre yapılarının bozulması sonucunda zombi hücreler ile yaşamını
+sürdüren mikro ve makro yaratıklardır. Düşünme ve öğrenme yetenekleri yoktur. Yardımcı karakter niteliğindedir.
+
+Kullanabileceği silah tipleri;
+1. Otomatik Silahlar
+2. Yarı Otomatik Silahlar
+3. Bıçaklar
+
+En çok hasar alıdığı şeyler;
+1. Kafadan yada bir organın kopması, kimyasal bir tepkime sonucunda zombiliğini kaybedebilmesi.
+2. İnsan formuna geçmesi durumunda zombi özelliklerini kaybedebilir.

@@ -1,0 +1,31 @@
+(Çeşitli Şirketleri Hackleyerek ve Kurumlara sızarak yada imha ederek level atlayacaksınız)
+
+
+A - Eğitim (Training)
+
+1. O Fort Tepesi
+Tüm kullanıcılar uyanır. Doğan kullanıcılara elektronik saat bağlanır. Elektronik saat tüm kullanıcılara
+Bilgilerini gösterir. Kullanıcılar ışık kuyusundan ilk silahlarını ve güçlerini edinirler.
+
+2. Rehber
+Bu bölümde rehber size yol gösterecektir. Yol boyunca size hangi şirketin ne kadar dünyaya zarar
+verdiğini ve bu zarardan kurtulmanız karşılığına size level atlatacağı konusunda size yol gösterecek.
+Sizi bilgeci kahine götürecek ve kendinizin kim olduğunu öğrenecek ve tanımlayacaksınız.
+
+3. Bilgeci Kahin
+Kahin yeni teknolojiler ve güçler verecektir. İcat yapma ve güç edinme gibi özel güçler. Bu güçler,
+size şirket, patron ve alt işçi sınıfları içinde savunma gücü ve bilgi sağlayacak. Bu dünyanın daha
+yaşanabilir olması için mücadele edecektir. Tüm öğrenim tamamlanınca ve karakter 10 level'e gelene kadar
+basit görevler ve teknoloji halkasına yönlendirilecek.
+
+
+5. Teknoloji Halkası
+- Savunma (Nasıl dövüşüleceğini öğrenecekler. Belirli dövüş sanatları olabilir.)
+- Bilgi (Burda bilgi havuzu ve görevler gelecek. Görevlere göre seviye ve güç atlayacaklar.)
+- İcatlar (Silah nasıl yapılır. Bomba ve elektronik düzenler, 
+çeşitli el üretimi icatların nerelerden bulunabileceği.)
+
+
+
+B - Bölgeler
+

@@ -1,0 +1,6 @@
+- Silahlar
+1. Otomatik
+2. Yarı Otomatik
+3. Tam Otomatik
+4. Bıçaklar
+5. Elektronik Silahlar
