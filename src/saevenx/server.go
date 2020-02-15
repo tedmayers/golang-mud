@@ -100,7 +100,7 @@ func (server *Server) login(username string, password string) (bool, *Player) {
  * @TODO perform an actual database scan
  */
 func userExists(username string) bool {
-	return username == "Saeven"
+	return username == "test"
 }
 
 /**
@@ -108,7 +108,7 @@ func userExists(username string) bool {
  * @TODO implement the actual check!
  */
 func authenticate(username string, password string) *Player {
-	if username == "Saeven" && password == "123" {
+	if username == "test" && password == "123" {
 		player := &Player{Name: username, CurrentRoom: 1, hitPointsMax: 100, hitPoints: 50, vitalityMax: 250, vitality: 250, race: getRace("demon")}
 		player.inventory = []*Item{
 			{Name: "A Dark Sword", Description: "A test object to test object loading"},
@@ -128,7 +128,7 @@ func (server *Server) onPlayerAuthenticated(connection *Connection) {
 	server.playerList = append(server.playerList, connection)
 
 	connection.state = STATE_LOGIN_MENU
-	connection.Write("Welcome. Death Awaits.\n")
+	connection.Write("Welcome. O FORT.\n")
 	connection.sendMenu()
 }
 
