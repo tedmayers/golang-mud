@@ -50,3 +50,4 @@ Verilen görevler;
 - Toplama Görevi (Bir bölgedeki bazı hassas bilgi ve öğeleri çalma)
 - Yardım Amaçlı Görevler (Bir bölgede mahsur kalmış birine yardım etme ve kurtarma)
 - Yok Etme Amaçlı Görevler (Birini doğrudan ölüme sürükleyecek hack eylemleri)
+
