@@ -1,7 +1,7 @@
 (Çeşitli Şirketleri Hackleyerek ve Kurumlara sızarak yada imha ederek level atlayacaksınız)
 
 
-A - O Fort Tepesi - Eğitim (Training)
+A - O Fort Tepesi - Eğitim (Training) [0-10 Seviye]
 
 Tüm kullanıcılar uyanır. Doğan kullanıcılara elektronik saat bağlanır. Elektronik saat tüm kullanıcılara
 Bilgilerini gösterir. Kullanıcılar ışık kuyusundan ilk silahlarını ve güçlerini edinirler.
@@ -28,4 +28,25 @@ Teknoloji Halkası
 
 B - Bölgeler
 
+Ana hat (Yeniden Doğuş) [10-50 Seviye]
 
+Kullanıcının ana hat boyunca karşılaşacağı silah dükkanları ve çeşitli fabrikalar yer alacak.
+Bölgenin en büyük patronu ile anlaşmanız durumunda başka bölgelere geçebilirsiniz. Ana hat 
+boyunca aracılar ile kuracağınız iletişim ve iş ilişkileri, sizi ana hat dan çıkarabilir.
+Ana hatta kaldığınız sürece çok kısıtlı bir level atlayabilirsiniz.
+
+Bölgede ticarethanelerden silah alabilirsiniz. Mermi satın alabilirsiniz. Verilen rasgele görevleri
+yapmanız gerekli. Yapmadığınız durumda seviyeniz düşebilir. Görevden çıkarsanız seviyeniz eski seviyenize
+ulaşır. Görevde kaybederseniz, tüm silahlarınız gider. Bu hat boyunca işler biraz daha zorlaşacak.
+
+Görev alabilinecek yerler;
+- Ticarethaneler - Görevi veren: İşçi Sınıfı
+- İş yönlendirme kurumları - Görevi veren: Aracılar
+- Ufak ölçekli firmalar - Görevi veren: Patronlar
+
+
+Verilen görevler;
+- Sızma Görevi (Bir bölgeye sızma ve bilgi çalma)
+- Toplama Görevi (Bir bölgedeki bazı hassas bilgi ve öğeleri çalma)
+- Yardım Amaçlı Görevler (Bir bölgede mahsur kalmış birine yardım etme ve kurtarma)
+- Yok Etme Amaçlı Görevler (Birini doğrudan ölüme sürükleyecek hack eylemleri)
