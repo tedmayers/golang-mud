@@ -1,4 +1,4 @@
-Meydan = O Fort Tepesi
+Meydan = O Fort Tepesi (Herkes sıfır level olarak oyuna başlar ve aldığı görevler ile seviyesi yükselir)
 
 Uzun yıllar önce sanal dünyada sıkışmış bir yer. Bu yerde insanlar yeni arayışlar içindeler. 
 Dünyanın saçmalıklarından uzak, hayatın ikileminden kaçarak bu dünyada yeni bir ışık buldular.

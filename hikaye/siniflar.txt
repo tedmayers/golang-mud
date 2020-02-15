@@ -1,8 +1,8 @@
-- Sınıf ve güçler
+- Sınıflar
 1. Robotlar
 2. İnsanlar
 3. Zombiler
-
+4. Dönüşümlü Türler
 
 
 A. Robotlar
@@ -22,6 +22,8 @@ Güçleri;
 - Elektrikli silahlar ve bıçakları karşı düşmana karşı elektriksel salınımla yok edebilmesi.
 - Güneş ve diğer elektronik aygıtlar ile etkileşime girerek iyileşebilmesi
 - Işığı dönüştürerek karşı karaktere karşı kullanabilmesi.
+- Cihazları sinyal ile hackleyebilme gücü
+- Diğer cihazlar ve insanları öğrenebilme gücü
 
 
 
@@ -46,6 +48,7 @@ Güçleri;
 - Bilgi kullanarak saldırı yapabilmesi
 - Cihazları hackleyenbilme üzerinde kontrol sağlayabilme gücü
 - Her cihazı öğrenebilme gücü
+- Cihaz çalabilme ve çaldığı cihazların parçalarından yeni silahlar yapabilme gücü
 
 
 
@@ -62,3 +65,23 @@ Kullanabileceği silah tipleri;
 En çok hasar alıdığı şeyler;
 1. Kafadan yada bir organın kopması, kimyasal bir tepkime sonucunda zombiliğini kaybedebilmesi.
 2. İnsan formuna geçmesi durumunda zombi özelliklerini kaybedebilir.
+
+Güçleri;
+- Kas gücü ile zarar verebilmesi
+- Zehirli bir sıvı ile elindeki cihaz üzerinde kontrol sağlayabilme gücü
+- İnsanlar ve robotlarla farklı dillerle iletişime geçebilmesi
+
+
+
+D. Tür dönüşümü
+Sınıflar arasında geçiş yapabilirsiniz. Başka bir sınıfa dönüşebilmeniz için belirli bölgelerdeki dönüşüm
+cihazlarını toplayarak, bu cihazları ana makinaya yükleyerek Robot-İnsan gibi ayrıştırma yada birleştirme
+yapılabilir.
+
+En çok hasar aldığı şeyler;
+1. Dönüştüğü tür gereği iki yada üç türün birleşmesi ile benzer hasar oranlarına sahip olabilir.
+2. Varolan sınıf formunu kaybetmesi yada başka türe geçmesi durumunda belirli bir hasar alabilir.
+
+Güçleri;
+- Dönüştüğü türün yeteneklerini seçerek alır
+- Dönüşmeden önceki türün bazı yeteneklerini seçerek alabilir

@@ -2,3 +2,33 @@
 - İşçiler
 - Aracılar
 - Patronlar
+
+
+A. Basit Dövüşçüler
+Basit dövüşçüler genelde O FORT'a yeni katılanları sevmezler. Bu nedenle her an karaktere saldırma
+eğilimleri vardır. Her yerde karşımıza çıkabilirler. Her dövüşçü ile dövüştüğünüzde otomatik olarak
+seviye atlarsınız. Dövüşçüleri genelde işçiler kontrol eder. 
+
+
+B. İşçiler
+Basit dövüşçülerden farklı olarak bir aracı ile çalıştıklarından özel güçleri vardır. Her yerde değil,
+belirli şirketlere yada bölgelere girdiğimizde otomatik olarak karşımıza çıkarlar. 
+Şirketlerde savaştığınızda genelde işçiler önce karşınıza basit dövüşçüler çıkarır. Dövüşçüleri yenip,
+işçi ile savaşırsınız. Genelde işçi sınıfını aracılar kontrol eder.
+
+
+C. Aracılar
+Aracılar genelde pek ortaya çıkmazlar. İşçilerle dövüştüğünüzde ortaya çıkarlar. Bunları öldürdüğünüzde
+çok kritik araçlar ve güçler edinirsiniz. Seviyeniz otomatik olarak artar. Aracılarla bir takım güçleri
+bazı şeyler ve görevler karşılığında takas edebilirsiniz. İşçiler ve basit dövüşçüler kadar 
+kolay değildirler. Her an tüm canınızı kaybedebilirsiniz. Sizi zor duruma sokan bir sınıftır.
+Ayrıca bu tip ile bir şeyler takas edebilirsiniz, çeşitli farklı görevler alabilirsiniz.
+
+
+D. Patronlar
+Oyunun en zor karakterleridir. Çok büyük beklentileri vardır. İkna ve güçleri normalin üstündedir.
+Bunlarla dövüşmek için yürek yemiş olmak gereklidir. Tüm sınıfları yenmeniz durumunda belirli
+şirketlerde karşınıza çıkar ve sizi elegeçirmeye çalışırlar. Bu durumda bilgi güçlerinizi kullanmak
+gerekir. Bilgi ve ikna kabiliyetiniz ile onları etkileyip özel görevler alıp, gerçekleştirip yok edebilirsiniz
+Bölgenin ve şirketin kontrolünü elinize geçirebilirsiniz.
+
