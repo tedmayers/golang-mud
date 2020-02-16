@@ -1,0 +1,5 @@
+Karakter listeleri
+- NPC'ler
+- İşçi Grupları
+- Çeteler
+- Şirketler
