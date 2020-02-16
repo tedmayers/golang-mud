@@ -2,6 +2,7 @@
 - İşçiler
 - Aracılar
 - Patronlar
+- Avukatlar
 
 
 A. Basit Dövüşçüler
@@ -32,3 +33,8 @@ Bunlarla dövüşmek için yürek yemiş olmak gereklidir. Tüm sınıfları yen
 gerekir. Bilgi ve ikna kabiliyetiniz ile onları etkileyip özel görevler alıp, gerçekleştirip yok edebilirsiniz
 Bölgenin ve şirketin kontrolünü elinize geçirebilirsiniz.
 
+E. Avukatlar (Gizli Karakter)
+Oyunun en sağlam karakteridir. Gizli bir karakterdir. Yardımcı karakter olarak plana sonradan dahil olacak
+Bunlar dövüşmek yad hack için değil, Patron veya aracılarla dövüşürken, görev yaparken karaktere destek
+olarak en gizli sırlarını keşvetmenizi sağlayacaktır. Bu gizli sırlar ile patron ve aracılarla daha kolay
+mücahadele edebilir ve şirketi elegeçirip yok edebilirsiniz.
