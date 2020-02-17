@@ -16,3 +16,4 @@ XEBELION
 LevLINK
 Xpert
 MrMySYS
+MagnussonTR
