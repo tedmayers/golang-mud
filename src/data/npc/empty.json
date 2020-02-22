@@ -1,0 +1,29 @@
+{
+    "map_position": [],
+    "menu": [
+        {
+            "name": "Quest",
+            "description": "",
+            "objects": [
+                {
+                    "level": 0,
+                    "reaction": "quest/sample.json"
+                }
+            ],
+            "award": [
+                {
+                    "object": "weapons/sample.json",
+                    "count": ""
+                },
+                {
+                    "object":  "bullet/sample.json",
+                    "count": ""
+                },
+                {
+                    "object":  "material/sample.json",
+                    "count": ""
+                }
+            ]
+        }
+    ]
+}

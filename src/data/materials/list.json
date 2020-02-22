@@ -1,0 +1,8 @@
+{
+    "materials": [
+        {
+            "name": "Ornek",
+            "object": "sample.json"
+        }
+    ]
+}

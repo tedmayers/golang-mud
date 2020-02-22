@@ -1,0 +1,10 @@
+{
+    "materials": [
+        {
+            "name": "",
+            "description": "",
+            "reaction": "materials/sample.json",
+            "count": ""
+        }
+    ]
+}
