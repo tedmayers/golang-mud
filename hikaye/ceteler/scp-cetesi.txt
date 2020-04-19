@@ -1,8 +1,8 @@
-TroqsiF - DP
-Drizzt/Drizzt2807
-Anzirru/Anzillu
+TroqsiF
+Drizzt
+Anzillu
 Include
-MrVortex
+Vortex
 PfcWinters
 Nano
 Pico
@@ -14,4 +14,4 @@ XEBELION
 LevLINK
 Xpert
 MrMySYS
-MagnussonTR/grababrushandputalittlemakeup
+Magnusson
